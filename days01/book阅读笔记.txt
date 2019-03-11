@@ -1,0 +1,7 @@
+Python
+	高层直接引用Python库，快速拓展
+	底层引用C语言编译为的.so文件，加强性能
+
+Python中的标识符和关键字
+import keyword
+看到p132

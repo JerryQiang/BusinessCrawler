@@ -1,0 +1,9 @@
+IPv4 地址:	10.6.12.56
+IPv4 DNS 服务器:	61.177.7.1
+制造商:	Qualcomm Atheros
+描述:	Qualcomm Atheros AR8171/8175 PCI-E Gigabit Ethernet Controller (NDIS 6.30)
+驱动程序版本:	2.1.0.21
+物理地址(MAC):	28-D2-44-B2-A7-B3
+
+
+https://www.baidu.com/s?ie=utf-8&csq=1&pstg=21&mod=2&isbd=1&cqid=d87f187000008916&istc=8249&ver=QN2sSgI0P3Paje7bmavVyu9W1L2zWyiMCYK&chk=5c73778d&isid=A3A0BEF730781547&wd=%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%BD%91%E7%BB%9C%E5%BC%82%E5%B8%B8&rsv_spt=1&rsv_iqid=0xe98f89ed000081aa&issp=1&f=8&rsv_bp=0&rsv_idx=2&ie=utf-8&tn=baiduhome_pg&rsv_enter=1&rsv_sug3=5&rsv_sug1=5&rsv_sug7=101&_ck=311912.0.-1.-1.-1.-1.-1&rsv_isid=26524_1422_21083_20698_26350_28415&isctg=5&rsv_stat=1_0_-1_2_11.4.7.4&rsv_sug7=101
